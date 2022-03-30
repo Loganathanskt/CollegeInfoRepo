@@ -16,7 +16,7 @@ public static void main(String[] args) {
 	Student s = new Student();
 	Hostel h = new Hostel();
 	Dept d = new Dept();
-	
+	//batch
 	c.collegeName();
 	c.collegeCode();
 	c.collegeRank();
