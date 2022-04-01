@@ -1,9 +1,11 @@
 package org.college;
 
 public class College {
+	//Test Git Hub 
 	private void collegeName() {
 		System.out.println("College Name is : SMIT");
 		System.out.println("College Code is : 123");
+		System.out.println("College Name is : SMIT");
 	}
 	private void collegeCode() {
 		System.out.println("College Code is : 123");
